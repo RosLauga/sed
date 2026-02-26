@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +49,7 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# Sed
+Proyecto de aplicación para Android para facilitar la busqueda de bares abiertos y con diferentes promociones que ofrezcan.
+>>>>>>> f4a97f355211cc3fb53ac7b1404f329a0c4bf7d2
