@@ -15,7 +15,7 @@
       "package": "com.anonymous.nativeapp",
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyAzllIvhFR-VMcsLq7BuvZP6e_94mdzB4w"
+          "apiKey": ""
         }
       },
       "adaptiveIcon": {
