@@ -3,6 +3,19 @@
 # SED! 👋
 
 ## Proyecto de aplicación para Android para facilitar la busqueda de bares abiertos y con diferentes promociones que ofrezcan.
+La aplicación esta en proceso y no está terminada, es solo un trabajo básico para testear funcionalidades.
+
+## Implementaciones futuras
+Menú de usuario
+
+Dark/Light Mode
+
+Lugares favoritos
+
+Implementación de API
+
+Agente AI de ayuda
+
 
 # Screenshots
 
